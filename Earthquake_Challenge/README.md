@@ -1,0 +1,3 @@
+# Module 13 Challenge: Mapping Earthquakes
+
+## Overview of the analysis: The purpose of this challenge was to visually show the differences between the magnitude of earthquakes that occur in different parts of the world. This would be done using methods such as jQuery, GeoJSON, and Leaflet. The earthquake data from the URL would be used to populate the map. This would be done for earthquakes that occurred only in the past week. 
